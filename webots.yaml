@@ -1,0 +1,7 @@
+type: demo
+animation:
+  worlds:
+    - file: worlds/tutorial_1.wbt
+      duration: 5
+    - file: worlds/tutorial_6.wbt
+      duration: 10
